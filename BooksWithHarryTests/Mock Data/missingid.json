@@ -1,0 +1,49 @@
+{
+	"authors": [
+		{
+			"deepLink": "storytel://booklist/authors/92616/Sarah%20Sheppard",
+			"id": "92616",
+			"name": "Sarah Sheppard"
+		}
+	],
+	"averageRating": 4.39,
+	"bookId": 3069279,
+	"decoratedTitle": "Djuren i skogen – Harry och Härta Hare",
+	"deepLink": "storytel://books/3069279",
+	"formats": [
+		{
+			"cover": {
+				"height": 640,
+				"url": "https://covers.storytel.com/jpg-640/9789129738810.f7bf7032-6df2-4091-9dc9-20b20afd5ba4",
+				"width": 629
+			},
+			"id": "1710280",
+			"isLockedContent": false,
+			"isReleased": true,
+			"lockedContent": false,
+			"releaseDate": "2022-06-10T00:00:00Z",
+			"released": true,
+			"type": "abook"
+		}
+	],
+	"kidsBook": true,
+	"language": "sv",
+	"narrators": [
+		{
+			"deepLink": "storytel://booklist/narrators/12898/Cecilia%20Frode",
+			"id": "12898",
+			"name": "Cecilia Frode"
+		}
+	],
+	"resultType": "book",
+	"seriesInfo": {
+		"deepLink": "storytel://booklist/series/48005/Djuren%20i%20skogen",
+		"id": "48005",
+		"name": "Djuren i skogen",
+		"orderInSeries": 4
+	},
+	"shareUrl": "https://www.storytel.com/se/sv/books/3069279?appRedirect=true",
+	"similarItemsDeepLink": null,
+	"similarItemsPageDeepLink": "storytel://inspirational-page/explore/similar-items/1711322",
+	"title": "Djuren i skogen – Harry och Härta Hare"
+}
